@@ -1,4 +1,6 @@
-*.cpp linguist-detectable=true
-*.h linguist-detectable=true
+*.cpp linguist-detectable=false
+*.cpp linguist-language=C++
+*.h linguist-detectable=false
+*.h linguist-language=C++
 *.R linguist-detectable=false
 *.R linguist-language=R

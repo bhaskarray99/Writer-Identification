@@ -48,7 +48,7 @@ int main()
             system("CLS");
             cout<<"1.\t Input documents"<<endl<<"2.\t Perform processing"<<endl<<"3.\t Verify writer for document"<<endl<<"4.\t Create confusion matrix"<<endl<<"5.\t Exit application"<<endl<<"Choose option:\t";
             cin>>choose;
-            while (choose<1 || choose>4)
+            while (choose<1 || choose>5)
             {
                 cout<<"Error in value. Enter again:\t";
                 cin>>choose;

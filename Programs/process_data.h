@@ -117,6 +117,6 @@ void tot_var()
         mvarr[i]/=mmarr[0];
     red_sto_mat(vmarr,mvarr);
     system("C://\"Program Files\"//R//R-3.6.3//bin//x64//Rscript E://Programs//Rcode.R");         //Replace "E://Rcode.R" by location of the "Rcode.R" file and "C://\"Program Files\"//R//R-3.6.3//bin//x64" by location of the "Rscript.exe" file on your PC excluding the term "Rscript.exe".
-                                                                                                  //If any directory in any of the paths specified contains a "Space" character in its name, enclose the name of that directory by \"...\". For reference, see how the directory "Program Files" has been written.
+                                                                                                  //If any directory in any of the paths specified contains a "Space" character in its name, enclose the name of that directory within \"...\". For reference, see how the directory "Program Files" has been written.
 }
 #endif // PROCESS_DATA_H_INCLUDED

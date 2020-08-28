@@ -1,6 +1,6 @@
 The software contains two pats: A C++ main code with some headers and an R code. 
 
-Pre-requisites: Windows OS, C++ compiler and R software.
+Pre-requisites: Windows OS, C++ compiler and R software with "Rscript.exe" program available.
 _______________________________________________________________
 
 Step-I: File system construction
@@ -29,7 +29,6 @@ Step-III: Data processing
 _______________________________________________________________
 a. In the C++ program, select option "2.       Perform processing".
 b. Wait till the processing is done and the main menu comes up.
-c. Now run the R code.
 _______________________________________________________________
 
 Step-IV: Output generation
@@ -38,7 +37,7 @@ a. To know the predicted writer for a text (.txt format only), select option "3.
 b. To create confusion  matrix with more data for each author, select option "4.       Create confusion matrix" in the C++ program and provide folder location for each author prompted. Some such folders are avaiable inside the "Test Files" folder.
 _______________________________________________________________
 
-N.B.- Closing the programs after complete execution of one step or after a complete cycle ("a"-"c") of Step-II does not erase data.
+N.B.- Closing the programs after complete execution of one step or after a complete cycle ("a"-"c") of Step-II does not erase data. Do not execute the R code manually! It is executed by the C++ program.
 
 
 

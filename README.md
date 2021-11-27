@@ -1,5 +1,7 @@
-This is a part of a project that deals with Statistical Identification of Writer for a text.
+# Classification of Writers Based on Sequential Arrangement of Letters
 
-Find the C++ and R codes and some sample files associated with the project here.
+This project deals with Statistical Identification of Writer for a text.
 
-Read the User Guide for more details.
+Find the C++ and R codes and some sample files associated with the project here. A PDF draft of the report is also provided.
+
+Read the User Guide for more details on using the programs.

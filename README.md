@@ -1,4 +1,4 @@
-# Classification of Writers Based on Sequential Arrangement of Letters
+# Identification of Writers Based on Sequential Arrangement of Letters
 
 This project deals with Statistical Identification of Writer for a text.
 
